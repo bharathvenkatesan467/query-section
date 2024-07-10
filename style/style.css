@@ -1,0 +1,22 @@
+summary{
+    border-bottom:1px solid black;
+    padding: 5px 10px;
+}
+body{
+    background-color: #36C2CE;
+    margin: 100px 500px;
+   
+}
+.d2{
+    border: 1px solid white;
+    background-color: white;
+    border-radius: 8px;
+}
+.plus{
+    float:right;
+    font-size: larger;
+    font-weight:bolder ;
+}
+header{
+    padding-left: 10px;
+}
